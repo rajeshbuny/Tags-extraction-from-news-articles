@@ -9,5 +9,5 @@ This NLP project will extract keywords from the news articles using TF-IDF algor
 # Data
 The Dataset available free in kaggle :https://www.kaggle.com/snapcrack/all-the-news/data
 
-#Reference
-https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34
+# Reference
+https://www.freecodecamp.org/news/how-to-extract-keywords-from-text-with-tf-idf-and-pythons-scikit-learn-b2a0f3d7e667/
